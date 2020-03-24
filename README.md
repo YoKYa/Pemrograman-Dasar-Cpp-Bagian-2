@@ -1,5 +1,5 @@
 # Pemrograman Dasar Cpp Bagian 2 - Komentar
- Pemrograman Dasar Cpp Bagian 2 (Komentar)
+ Pemrograman Dasar Cpp Bagian 2 ( Komentar )
 
 ### Cara Compile
 1. Buka Terminal (Tekan Windows + R) lalu ketik cmd
