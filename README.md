@@ -1,5 +1,5 @@
 # Pemrograman Dasar Cpp Bagian 2 - Komentar
- Pemrograman Dasar Cpp Bagian 2 (Komentar)
+ Pemrograman Dasar Cpp Bagian 2 ( Komentar )
 
 ## Cara Menggunakan [Disini](https://github.com/YoKYa/Pemrograman-Dasar-Cpp-Bagian-1)
 
